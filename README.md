@@ -25,6 +25,4 @@ The "Bank Crisis Forecaster" is a machine learning project designed to predict p
 - **Employs advanced data preprocessing and feature engineering techniques** to optimize the dataset for analysis, enhancing the predictive accuracy of the models.
 - **Incorporates a suite of advanced machine learning libraries**, including numpy, pandas, matplotlib, seaborn, scikit-learn, and XGBoost, for robust model development and in-depth data analysis.
 
-### **Installation**
 
-To set up this project locally, clone the repository:
